@@ -19,6 +19,6 @@ public class Main {
         System.out.println("Area = "+ String.format("%.4f", area));
         System.out.println("Perimetro = "+ String.format("%.4f", perimetro));
         System.out.println("Diagonal = " + String.format("%.4f", diagonal));
-
+        sc.close();
     }
 }
