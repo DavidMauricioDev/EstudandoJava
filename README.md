@@ -97,15 +97,4 @@ java NomeDaClasse
 
 Este repositório é um registro contínuo da minha evolução como desenvolvedor. Os exercícios representam etapas do aprendizado e servem como referência para revisar conceitos, identificar melhorias e acompanhar meu progresso.
 
-## 👨‍💻 Autor
 
-**David Mauricio**
-
-- GitHub: [@DavidMauricioDev](https://github.com/DavidMauricioDev)
-- Repositório: [EstudandoJava](https://github.com/DavidMauricioDev/EstudandoJava)
-
----
-
-⭐ Se este repositório for útil para seus estudos, fique à vontade para explorá-lo e acompanhar sua evolução.
-
-*Aprender a programar é praticar, errar, corrigir e evoluir continuamente.*
